@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/cyber-cat-abdulla/catv2.git"
     },
-    "author": "D-Jukie",
+    "author": "Abdulla",
     "license": "GPL-3.0",
     "dependencies": {
         "simple-youtube-api": "",
